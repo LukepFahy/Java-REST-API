@@ -1,0 +1,8 @@
+dao\PassportsDAO.class
+modal\Passport.class
+resources\PassportsResource.class
+resources\PassportsResource$2.class
+utility\DatabaseConnection.class
+resources\PassportsResource$3.class
+configuration\PassportsRestConfiguration.class
+resources\PassportsResource$1.class
